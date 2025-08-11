@@ -46,10 +46,10 @@ python main.py
 
 **Left hand gestures**:
 
-☝️ 1 finger: Open Word
-✌️ 2 fingers: Open Excel
-🤟 3 fingers: Open Firefox
-✊ All down: Close Firefox
+- ☝️ 1 finger: Open Word
+- ✌️ 2 fingers: Open Excel
+- 🤟 3 fingers: Open Firefox
+- ✊ All down: Close Firefox
 
 **Two-hand mode for drawing**:
 - Left hand sets color (1-4 fingers)
